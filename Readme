@@ -2,7 +2,7 @@ This is an application that extends the existing simpleFoam solver in OpenFOAM t
 for the passive advection diffusion of a scalar. This is implemented for OpenFOAM-2.4.0
 but can easily be extended for more recent versions.
 
-How do I get set up?
+# How do I get set up? #
 
 Source the openfoam environment (bashrc or cshrc file) to load the proper environment
 variables. Place this folder in the $WM_PROJECT_USER_DIR/applications/solvers/ directory
